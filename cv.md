@@ -38,3 +38,11 @@ alert("Иди в RSSchool!");
 <p>При нажатии кнопки выше, вы станете фронтенд разработчиком.</p>
 </body>
 ```
+
+## Experience ##
+
+## Education ##
+* Academy of Advocacy of Ukraine | Jurisprudence | Septermber 2009 - June 2014 | Ukraine
+
+## English ##
+* Pre-intermediate (A2+)
